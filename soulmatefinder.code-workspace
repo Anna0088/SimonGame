@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../projects/soulmatefinder"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WEB DEVELOPMENT 2.0"
+	}
+}
